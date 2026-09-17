@@ -5,13 +5,13 @@ package Main;
 public class Csapatmunka {
 
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         System.out.println("David hasselhof");
         
         System.out.println("Geri");
+        
+        System.out.println("hihihihihihihihi");
     }
 
 }
